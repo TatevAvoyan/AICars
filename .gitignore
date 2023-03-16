@@ -1,0 +1,33 @@
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
+JSON
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+!OWSInstanceLauncher/*/**
+.idea
+DDC
+DDCGlobal
+hooks
+lfs
+!Plugins/DLSS/Binaries/ThirdParty/Win64/nvngx_dlss.dll
+
+# Houdini
+*bak*.hip
+*bak*.hda
+
+# Megascans
+# Content/MSPresets
+# Content/Megascans
+
+.vsconfig
